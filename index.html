@@ -264,17 +264,19 @@ function renderVisible() {
 
 loadDB();
 
-// CountAPI: increment page visit count
-fetch('https://api.countapi.xyz/hit/video-library-arktv/page-visits')
+
+// Use a unique namespace for your site
+const namespace = 'video-library-arktv';
+const key = 'page-visits';
+
+// Increment the counter
+fetch(`https://counterapi.xyz/hit/${namespace}/${key}`)
   .then(res => res.json())
   .then(data => {
-    if (data && data.value !== undefined) {
-      console.log('Page visits:', data.value);
-    } else {
-      console.warn('Unexpected CountAPI response:', data);
-    }
+    console.log(`Page visits: ${data.value}`);
   })
-  .catch(err => console.error('CountAPI error:', err));
+  .catch(err => console.error('CounterAPI error:', err));
+
 
 </script>
 
