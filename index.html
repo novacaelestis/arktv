@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Video Library</title>
+
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  height: 100vh;
+  background: #0e0e0e;
+  color: #e4e4e4;
+}
+
+/* Sidebar */
+#sidebar {
+  width: 220px;
+  background: #161616;
+  padding: 15px;
+  box-sizing: border-box;
+  border-right: 1px solid #242424;
+}
+
+#sidebar h2 { margin-top: 0; font-size: 18px; }
+
+.cat-btn {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 6px;
+  background: #1f1f1f;
+  border: none;
+  color: #d0d0d0;
+  cursor: pointer;
+  text-align: left;
+  border-radius: 6px;
+}
+
+.cat-btn.active { background: #2a2a2a; }
+
+/* Main */
+#main {
+  flex: 1;
+  padding: 15px;
+  overflow-y: auto;
+  box-sizing: border-box;
+}
+
+/* Dark scrollbar */
+#main::-webkit-scrollbar { width: 10px; }
+#main::-webkit-scrollbar-track { background: #111; }
+#main::-webkit-scrollbar-thumb {
+  background: #2a2a2a;
+  border-radius: 6px;
+}
+#main::-webkit-scrollbar-thumb:hover { background: #3a3a3a; }
+
+/* Grid */
+#grid { position: relative; }
+
+.card {
+  position: absolute;
+  width: 300px;
+  background: #161616;
+  padding: 8px;
+  border-radius: 8px;
+  transition: border 0.2s;
+}
+
+.card.active { border: 2px solid #e0b84f; }
+
+.video-title {
+  font-size: 13px;
+  font-weight: 600;
+  margin-bottom: 6px;
+  text-align: center;
+  color: #d8d8d8;
+  height: 2.4em;
+  overflow: hidden;
+}
+
+iframe {
+  width: 100%;
+  height: 180px;
+  border: none;
+}
+
+.thumb {
+  position: relative;
+  height: 180px;
+  cursor: pointer;
+  background: #000;
+}
+
+.thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.play {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 36px;
+  color: white;
+  text-shadow: 0 0 10px black;
+}
+</style>
+</head>
+
+<body>
+
+<div id="sidebar">
+  <h2>Categories</h2>
+  <div id="catList"></div>
+</div>
+
+<div id="main">
+  <div id="grid"></div>
+</div>
+
+<script>
+let db = {};
+let currentCategory = '';
+
+const activePlayers = new Map();
+const playingIds = new Set();
+const renderedCards = new Map();
+
+const CARD_W = 320;
+const CARD_H = 260;
+const BUFFER_ROWS = 2;
+
+/* LOAD DATABASE */
+async function loadDB() {
+  try {
+    const res = await fetch('data/videos.json?v=' + Date.now());
+    db = await res.json();
+  } catch {
+    alert('Failed to load videos.json');
+    db = { Main: [] };
+  }
+
+  currentCategory = Object.keys(db)[0];
+  renderCategories();
+  initVirtualScroll();
+}
+
+/* CATEGORY UI */
+function renderCategories() {
+  catList.innerHTML = '';
+
+  Object.keys(db).forEach(cat => {
+    const btn = document.createElement('button');
+    btn.className = 'cat-btn' + (cat === currentCategory ? ' active' : '');
+    btn.textContent = cat;
+
+    btn.onclick = () => {
+      currentCategory = cat;
+      renderCategories();
+      initVirtualScroll(true);
+    };
+
+    catList.appendChild(btn);
+  });
+}
+
+/* VIRTUAL SCROLL */
+function initVirtualScroll(reset=false) {
+  if (reset) {
+    renderedCards.forEach(c => c.remove());
+    renderedCards.clear();
+  }
+
+  main.removeEventListener('scroll', renderVisible);
+  main.addEventListener('scroll', renderVisible);
+  renderVisible();
+}
+
+function renderVisible() {
+  const vids = db[currentCategory];
+  const grid = document.getElementById('grid');
+
+  const cols = Math.floor(main.clientWidth / CARD_W) || 1;
+  const scrollTop = main.scrollTop;
+  const viewH = main.clientHeight;
+
+  const startRow = Math.floor(scrollTop / CARD_H) - BUFFER_ROWS;
+  const endRow = Math.ceil((scrollTop + viewH) / CARD_H) + BUFFER_ROWS;
+
+  const start = Math.max(0, startRow * cols);
+  const end = Math.min(vids.length, endRow * cols);
+
+  grid.style.height = Math.ceil(vids.length / cols) * CARD_H + 'px';
+
+  for (let i = start; i < end; i++) {
+    const vid = vids[i];
+    let card = renderedCards.get(i);
+
+    if (!card) {
+      card = document.createElement('div');
+      card.className = 'card';
+
+      /* TITLE */
+      const t = document.createElement('div');
+      t.className = 'video-title';
+      t.textContent = vid.title;
+      card.appendChild(t);
+
+      /* PLAYER / THUMB */
+      if (activePlayers.has(vid.id)) {
+        card.appendChild(activePlayers.get(vid.id));
+        card.classList.add('active');
+      } else {
+        const thumb = document.createElement('div');
+        thumb.className = 'thumb';
+        thumb.innerHTML =
+          `<img src="https://img.youtube.com/vi/${vid.id}/hqdefault.jpg">
+           <div class="play">▶</div>`;
+        card.appendChild(thumb);
+      }
+
+      /* PLAY CLICK */
+      card.addEventListener('click', e => {
+        const t = e.target.closest('.thumb');
+        if (!t) return;
+
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.youtube.com/embed/${vid.id}?autoplay=1`;
+        iframe.allowFullscreen = true;
+
+        activePlayers.set(vid.id, iframe);
+        playingIds.add(vid.id);
+        card.classList.add('active');
+
+        t.replaceWith(iframe);
+      });
+
+      grid.appendChild(card);
+      renderedCards.set(i, card);
+    }
+
+    /* POSITION */
+    const row = Math.floor(i / cols);
+    const col = i % cols;
+
+    card.style.top = row * CARD_H + 'px';
+    card.style.left = col * CARD_W + 'px';
+  }
+
+  /* CLEANUP OFFSCREEN (keep playing) */
+  for (const [index, card] of renderedCards) {
+    const vid = db[currentCategory][index];
+    if ((index < start || index >= end) && !playingIds.has(vid.id)) {
+      card.remove();
+      renderedCards.delete(index);
+    }
+  }
+}
+
+loadDB();
+</script>
+
+</body>
+</html>
