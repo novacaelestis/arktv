@@ -264,12 +264,17 @@ function renderVisible() {
 
 loadDB();
 
-fetch('https://api.countapi.xyz/hit/video-library-arktv/visits')
+// CountAPI: increment page visit count
+fetch('https://api.countapi.xyz/hit/video-library-arktv/page-visits')
   .then(res => res.json())
-  .then(data => console.log('Page visits:', data.value))
+  .then(data => {
+    if (data && data.value !== undefined) {
+      console.log('Page visits:', data.value);
+    } else {
+      console.warn('Unexpected CountAPI response:', data);
+    }
+  })
   .catch(err => console.error('CountAPI error:', err));
-
-
 
 </script>
 
