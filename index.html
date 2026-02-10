@@ -23,7 +23,13 @@ body {
   border-right: 1px solid #242424;
 }
 
-#sidebar h2 { margin-top: 0; font-size: 18px; }
+#sidebar h2 {
+  margin-top: 0;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
 
 .cat-btn {
   display: block;
@@ -115,7 +121,11 @@ iframe {
 <body>
 
 <div id="sidebar">
-  <h2>Categories</h2>
+  <h2>
+    Categories
+    <!-- Hits.sh badge -->
+    <img id="hitsBadge" src="https://hits.sh/novacaelestis.github.io/arktv.svg" alt="Page visits" style="height:20px;">
+  </h2>
   <div id="catList"></div>
 </div>
 
@@ -135,7 +145,7 @@ const CARD_W = 320;
 const CARD_H = 260;
 const BUFFER_ROWS = 2;
 
-/* LOAD DATABASE */
+/* ---------- LOAD DATABASE ---------- */
 async function loadDB() {
   try {
     const res = await fetch('data/videos.json?v=' + Date.now());
@@ -150,7 +160,7 @@ async function loadDB() {
   initVirtualScroll();
 }
 
-/* CATEGORY UI */
+/* ---------- CATEGORY UI ---------- */
 function renderCategories() {
   catList.innerHTML = '';
 
@@ -169,7 +179,7 @@ function renderCategories() {
   });
 }
 
-/* VIRTUAL SCROLL */
+/* ---------- VIRTUAL SCROLL ---------- */
 function initVirtualScroll(reset=false) {
   if (reset) {
     renderedCards.forEach(c => c.remove());
@@ -262,18 +272,19 @@ function renderVisible() {
   }
 }
 
+/* ---------- HITS.SH BADGE ---------- */
+function updateHitsBadge() {
+  const badge = document.getElementById('hitsBadge');
+  // This automatically increments the counter and reloads the badge
+  badge.src = `https://hits.sh/novacaelestis.github.io/arktv.svg?${Date.now()}`;
+}
+
+// Refresh every 10 seconds (optional)
+setInterval(updateHitsBadge, 10000);
+
+/* ---------- INITIALIZE ---------- */
 loadDB();
-
-
-
-// hits.sh counter for video-library-arktv
-fetch('https://hits.sh/video-library-arktv')
-  .then(res => res.text())
-  .then(count => console.log('Page hits (total):', count.trim()))
-  .catch(err => console.error('hits.sh error:', err));
-
-
-
+updateHitsBadge();
 </script>
 
 </body>
