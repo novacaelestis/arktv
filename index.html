@@ -280,6 +280,15 @@ function updateHitsBadge() {
 }
 
 // Refresh every 10 seconds (optional)
+function toggleBadge() {
+  const badge = document.getElementById('hitsBadge');
+  if (!badge) return;
+  if (badge.style.display === 'none') {
+    badge.style.display = 'inline-block'; // show
+  } else {
+    badge.style.display = 'none'; // hide
+  }
+}
 
 
 /* ---------- INITIALIZE ---------- */
@@ -289,4 +298,5 @@ updateHitsBadge();
 
 </body>
 </html>
+
 
