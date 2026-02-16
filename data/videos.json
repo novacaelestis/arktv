@@ -1,12 +1,298 @@
 {
   "Welcome": [
     {
+      "id": "vL6zvsRxpMo",
+      "title": "Jesus, My Lord, My God, My All (Sweet Sacrament)"
+    },
+    {
       "id": "iatWRs9M_I8",
       "title": "All Catholic Sacraments, Explained in 7 Minutes"
     },
     {
       "id": "cNTDa4Jk4C0",
       "title": "Holy Places | 60 Minutes Full Episodes"
+    },
+    {
+      "id": "DLEcZaK-opU",
+      "title": "Miserere - Canto Gregoriano"
+    }
+  ],
+  "KJV Audio Bible": [
+    {
+      "id": "iVcUdDA4yl0",
+      "title": "KJV Audio Bible - Genesis"
+    },
+    {
+      "id": "dhM52o_RGpU",
+      "title": "KJV Audio Bible - Exodus"
+    },
+    {
+      "id": "Hp8CbkbwXsY",
+      "title": "KJV Audio Bible -  Leviticus"
+    },
+    {
+      "id": "IOf2bmYIxxQ",
+      "title": "KJV Audio Bible - Numbers"
+    },
+    {
+      "id": "UnrCua4B7ks",
+      "title": "KJV Audio Bible - Deuteronomy"
+    },
+    {
+      "id": "LFVVT9Lpm1w",
+      "title": "KJV Audio Bible - Joshua"
+    },
+    {
+      "id": "3w27LrVxesU",
+      "title": "KJV Audio Bible  - Judges"
+    },
+    {
+      "id": "9Ywig9xq4ho",
+      "title": "KJV Audio Bible - Ruth"
+    },
+    {
+      "id": "AcdFYjpWjSA",
+      "title": "KJV Audio Bible - 1 Samuel"
+    },
+    {
+      "id": "CiPFtjntpc0",
+      "title": "KJV Audio Bible - 2 Samuel"
+    },
+    {
+      "id": "dSc046UzSu8",
+      "title": "KJV Audio Bible - 1 Kings"
+    },
+    {
+      "id": "at5rQS3CwS0",
+      "title": "KJV Audio Bible - 2 Kings"
+    },
+    {
+      "id": "19GLtyLLwMo",
+      "title": "KJV Audio Bible - 1 Chronicles"
+    },
+    {
+      "id": "2-I0o_UQGgg",
+      "title": "KJV Audio Bible - 2 Chronicles"
+    },
+    {
+      "id": "mccddBIa82o",
+      "title": "KJV Audio Bible - Ezra"
+    },
+    {
+      "id": "ajfnjCjSL9c",
+      "title": "KJV Audio Bible - Nehemiah"
+    },
+    {
+      "id": "HNYQhurdZU4",
+      "title": "KJV Audio Bible - Esther"
+    },
+    {
+      "id": "pvoeYPwo_q4",
+      "title": "KJV Audio Bible - Job"
+    },
+    {
+      "id": "ki4-9uxpjrE",
+      "title": "KJV Audio Bible - Psalms"
+    },
+    {
+      "id": "iafIvsbzVbc",
+      "title": "KJV Audio Bible  - Proverbs"
+    },
+    {
+      "id": "7hs-umxesDM",
+      "title": "KJV Audio Bible - Ecclesiastes"
+    },
+    {
+      "id": "dCqlAq0iWmI",
+      "title": "KJV Audio Bible - Song of Songs"
+    },
+    {
+      "id": "b_7xnzhmj58",
+      "title": "KJV Audio Bible - Isaiah"
+    },
+    {
+      "id": "6jdhTMfeiV8",
+      "title": "KJV Audio Bible  - Jeremiah"
+    },
+    {
+      "id": "wd7asUGimvw",
+      "title": "KJV Audio Bible - Lamentations"
+    },
+    {
+      "id": "8iPQIW59Kbo",
+      "title": "KJV Audio Bible  - Ezekiel"
+    },
+    {
+      "id": "8ZRN0UCqEQE",
+      "title": "KJV Audio Bible - Daniel"
+    },
+    {
+      "id": "JiALXcbQi-k",
+      "title": "KJV Audio Bible - Hosea"
+    },
+    {
+      "id": "nRT_wAyPbN4",
+      "title": "KJV Audio Bible - Joel"
+    },
+    {
+      "id": "kugVJ-w-E1s",
+      "title": "KJV Audio Bible - Amos"
+    },
+    {
+      "id": "I8MU8ic2cUw",
+      "title": "KJV Audio Bible - Obadiah"
+    },
+    {
+      "id": "bW_ieAZhkoo",
+      "title": "KJV Audio Bible - Jonah"
+    },
+    {
+      "id": "2w8Nb2cIFAw",
+      "title": "KJV Audio Bible - Micah"
+    },
+    {
+      "id": "Xy5-DP2p5m0",
+      "title": "KJV Audio Bible - Nahum"
+    },
+    {
+      "id": "0LZkqXE3L0w",
+      "title": "KJV Audio Bible - Habakkuk"
+    },
+    {
+      "id": "E-igbuiGImk",
+      "title": "KJV Audio Bible - Zephaniah"
+    },
+    {
+      "id": "naQT34s1Fi4",
+      "title": "KJV Audio Bible - Haggai"
+    },
+    {
+      "id": "RqecCmJkUfY",
+      "title": "KJV Audio Bible - Zechariah"
+    },
+    {
+      "id": "TVngp4gxGJw",
+      "title": "KJV Audio Bible - Malachi"
+    },
+    {
+      "id": "US4Ywv0koc0",
+      "title": "KJV Audio Bible - Matthew"
+    },
+    {
+      "id": "y0FV8H20Nz8",
+      "title": "KJV Audio Bible - Mark"
+    },
+    {
+      "id": "P-ksLIvhxY0",
+      "title": "KJV Audio Bible - Luke"
+    },
+    {
+      "id": "z-dc1AhxLwM",
+      "title": "KJV Audio Bible - John"
+    },
+    {
+      "id": "mv055536zCw",
+      "title": "KJV Audio Bible - Acts"
+    },
+    {
+      "id": "GQgW0wmOv90",
+      "title": "KJV Audio Bible - Romans"
+    },
+    {
+      "id": "ZA5OLoV2BNs",
+      "title": "KJV Audio Bible - 1 Corinthians"
+    },
+    {
+      "id": "wHfpli6nM3M",
+      "title": "KJV Audio Bible - 2 Corinthians"
+    },
+    {
+      "id": "qjOxkpCuJVY",
+      "title": "KJV Audio Bible - Galatians"
+    },
+    {
+      "id": "_lVO-eOw-2Q",
+      "title": "KJV Audio Bible - Ephesians"
+    },
+    {
+      "id": "o7JriUy2B9A",
+      "title": "KJV Audio Bible - Philippians"
+    },
+    {
+      "id": "6DfqcwCr_a4",
+      "title": "KJV Audio Bible - Colossians"
+    },
+    {
+      "id": "BSk0ro9vOPM",
+      "title": "KJV Audio Bible - 1 Thessalonians"
+    },
+    {
+      "id": "a5_5I4VsizQ",
+      "title": "KJV Audio Bible - 2 Thessalonians"
+    },
+    {
+      "id": "fFIs5lsAhQ8",
+      "title": "KJV Audio Bible - 1 Timothy"
+    },
+    {
+      "id": "QPsB2BPqGHs",
+      "title": "KJV Audio Bible - 2 Timothy"
+    },
+    {
+      "id": "Cdwj2aP7Z64",
+      "title": "KJV Audio Bible - Titus"
+    },
+    {
+      "id": "m1lwkPs92C0",
+      "title": "KJV Audio Bible - Philemon"
+    },
+    {
+      "id": "MAUVBo2v_BU",
+      "title": "KJV Audio Bible - Hebrews"
+    },
+    {
+      "id": "PwkbYuABFw8",
+      "title": "KJV Audio Bible - James"
+    },
+    {
+      "id": "x1pmPTCgi3Y",
+      "title": "KJV Audio Bible - 1 Peter"
+    },
+    {
+      "id": "kHEkvsd_xQU",
+      "title": "KJV Audio Bible - 2 Peter"
+    },
+    {
+      "id": "FG7yHXDjahc",
+      "title": "KJV Audio Bible - 1 John"
+    },
+    {
+      "id": "giac07JBI0Q",
+      "title": "KJV Audio Bible - 2 John"
+    },
+    {
+      "id": "ZU7IK_DA188",
+      "title": "KJV Audio Bible - 3 John"
+    },
+    {
+      "id": "f6LMHcFhby8",
+      "title": "KJV Audio Bible - Jude"
+    },
+    {
+      "id": "d_wfvgROB_Q",
+      "title": "KJV Audio Bible  - Revelation"
+    },
+    {
+      "id": "21veav7A2QA",
+      "title": "Full Old Testament KJV Audio Bible (Over 9+ hours)"
+    },
+    {
+      "id": "mVkcLUnTSmc",
+      "title": "Full Gospels KJV Audio Bible  (Over 8+ hours)"
+    },
+    {
+      "id": "tjmeJIEon18",
+      "title": "KJV Audio Psalms 23, 27 and 91 (looped 8 hrs)"
     }
   ],
   "Adoration of the Cross": [
@@ -3233,6 +3519,24 @@
       "title": "A História das Cruzadas (1/5)"
     }
   ],
+  "WWII :)": [
+    {
+      "id": "J9yYEQtjwss",
+      "title": "German HELL MARCH"
+    },
+    {
+      "id": "ivP1qYG_tLw",
+      "title": "Feindflug - Ersatzteil"
+    },
+    {
+      "id": "q_RAz2eliFo",
+      "title": "𝕽𝖆𝖒𝖒𝖘𝖙𝖊𝖎𝖓 𝕯𝖊𝖚𝖙𝖘𝖈𝖍𝖑𝖆𝖓𝖉 𝖂𝖂2 𝕰𝖉𝖎𝖙"
+    },
+    {
+      "id": "thzAulhMEtI",
+      "title": "Eisbrecher - This is Deutsch (German Empire)"
+    }
+  ],
   "The Catholic Crusade": [
     {
       "id": "44tNXKyPj_c",
@@ -4709,296 +5013,1434 @@
       "title": "Learn the Correct Latin Pronunciation of Hail Holy Queen"
     }
   ],
-  "WWII :)": [
+  "Sunday 7pm Choir": [
     {
-      "id": "J9yYEQtjwss",
-      "title": "German HELL MARCH"
+      "id": "1kotHECAOyE",
+      "title": "Whatsoever You Do | Lent Catholic Hymn of Social Concern & Justice | All Verses | Choir with Lyrics"
     },
     {
-      "id": "ivP1qYG_tLw",
-      "title": "Feindflug - Ersatzteil"
+      "id": "dLqQLzpXIEo",
+      "title": "Earthen Vessels | John Foley, SJ | Catholic Hymn | Christian song of Jesus, Light | Choir w/ Lyrics"
     },
     {
-      "id": "q_RAz2eliFo",
-      "title": "𝕽𝖆𝖒𝖒𝖘𝖙𝖊𝖎𝖓 𝕯𝖊𝖚𝖙𝖘𝖈𝖍𝖑𝖆𝖓𝖉 𝖂𝖂2 𝕰𝖉𝖎𝖙"
-    }
-  ],
-  "KJV Audio Bible": [
+      "id": "oEgqTIJcSKQ",
+      "title": "Lead Me, Lord | Beatitudes Hymn | John D. Becker | Solo & Piano with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "Bic3HYA5chM",
+      "title": "As We Gather at Your Table | Catholic Gathering Hymn | Carl Daw | Choir with Lyrics"
+    },
+    {
+      "id": "jky5-L0n8Og",
+      "title": "Come, O Holy Spirit, Come | Traditional Catholic Hymn (Tune: Ode to Joy) | Choir with Lyrics"
+    },
+    {
+      "id": "c1ohehuJB0Y",
+      "title": "I Received the Living God | Catholic Communion Hymn | Organ & Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "LlvhDn2k_7o",
+      "title": "The Work of Christmas | Dan Forrest | Sung by Sunday 7pm Choir (Live at St. Francis de Sales Parish)"
+    },
+    {
+      "id": "53ZQgrBhRJs",
+      "title": "O Come and Sing of Christmas | Christmas Carol Medley | Performed by Choir, Piano & Brass w/Lyrics"
+    },
+    {
+      "id": "izNPSO3O5j8",
+      "title": "1 Hour of Beautiful Christmas Carols & Peaceful Hymns | Sunday 7pm Choir & SFDS Music Ministry"
+    },
+    {
+      "id": "Scl789eOrQA",
+      "title": "Joy to the World | Traditional Christmas Carol | Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "LMab0DNwTA4",
+      "title": "Christmas Lullaby | John Rutter | Beautiful Sacred Hymn | Choir & Instruments with Lyrics"
+    },
+    {
+      "id": "tZQ4ZRLOoAU",
+      "title": "O Come All Ye Faithful | Traditional Christmas Carol | Choir, Organ & Brass w/ Lyrics | D. Benton"
+    },
+    {
+      "id": "g2S-XmPj62k",
+      "title": "In the Bleak Midwinter | Traditional Christmas Hymn | Catholic Choir with Lyrics (CRANHAM)"
+    },
+    {
+      "id": "DjzQf8VY9u0",
+      "title": "Huron Carol (Twas In the Moon of Wintertime) | Traditional Canadian Christmas Hymn | Choir w/ Lyrics"
+    },
+    {
+      "id": "g14QbLsUYzo",
+      "title": "Away in a Manger | Beautiful Traditional Christmas Carol | Catholic Choir w/ Lyrics | Wickham/Ijames"
+    },
+    {
+      "id": "3Uzcs--RoVk",
+      "title": "Seven Songs for Christmas | Beloved Christmas Hymns & Carols Collection | Catholic Choir with Lyrics"
+    },
+    {
+      "id": "Y3MMG3Umi8s",
+      "title": "Seven Songs for Mary | Beautiful Catholic Marian Hymns | Feast of the Immaculate Conception"
+    },
+    {
+      "id": "TeOnXrz4IR0",
+      "title": "Beautiful Advent Songs | 7 Sacred Catholic Hymns & Other Christian Songs for the Advent Season"
+    },
+    {
+      "id": "KvY9AzRIapA",
+      "title": "To Jesus Christ Our Sovereign King | Catholic Hymn for Christ the King | Choir & Piano with Lyrics"
+    },
+    {
+      "id": "g0Fg9Yf6Q28",
+      "title": "Save Your People (Oh Lord) | Psalm 27 | Catholic Song w/Lyrics | Protection, Salvation, Lent"
+    },
+    {
+      "id": "n9VKktlqsPs",
+      "title": "Hail Holy Queen Enthroned Above | Traditional Catholic Marian Hymn | Salve Regina | Choir w/Lyrics"
+    },
+    {
+      "id": "uPvGHGDDw1g",
+      "title": "The Church's One Foundation | Traditional Christian Hymn | Catholic Choir with Lyrics"
+    },
+    {
+      "id": "VbOYOm_B9OY",
+      "title": "Hold On | Christian Song for Strength, Consolation & Hope | A.Tice & S.A. Morris | Choir with Lyrics"
+    },
+    {
+      "id": "xa9eUpt3fCA",
+      "title": "Immaculate Mary (Lourdes Hymn) | Beautiful Choir & Organ | Catholic Marian Hymn with Lyrics"
+    },
+    {
+      "id": "i8SZrt4_ers",
+      "title": "Pilgrims of Hope – Official Jubilee 2025 Hymn | English Lyric Video | Catholic Choir and Piano"
+    },
+    {
+      "id": "oPqe5lHLWKI",
+      "title": "Anima Christi (Soul of Christ) | Music by Arboleda & Bukas Palad | Choir, Piano & Violin w/Lyrics"
+    },
+    {
+      "id": "agX7UAY5SxM",
+      "title": "For The Beauty of the Earth | Traditional Christian Hymn with Lyrics | Thanksgiving | Choir & Piano"
+    },
+    {
+      "id": "N6kfOlcqdgE",
+      "title": "Miserere Mei, Deus (Have Mercy on Me, O God) | Allegri | Choir with Lyrics & Translation"
+    },
+    {
+      "id": "bq1p5_X4-JU",
+      "title": "Chant Mass | Catholic Latin & English Mass Setting | Graduale Romanum | Choir & Organ w/ Lyrics"
+    },
+    {
+      "id": "tNQyhMJR4TY",
+      "title": "Mass of Christ the Savior | Catholic Mass Setting by Dan Schutte | Choir, Piano & Violin w/ Lyrics"
+    },
+    {
+      "id": "tmiVsTyykkQ",
+      "title": "Glory in the Cross | Exaltation of the Holy Cross | D. Schutte | Easter Verses | Choir w/Lyrics"
+    },
+    {
+      "id": "bsZVzaHCq1E",
+      "title": "When I Survey the Wondrous Cross | Classic Christian Hymn | Choir & Organ with Lyrics | HAMBURG"
+    },
+    {
+      "id": "rsQFo-1c64U",
+      "title": "Songs for Church Weddings | 10 Hymns for Catholic Weddings & Christian Wedding Songs, Choir & Lyrics"
+    },
+    {
+      "id": "dnvdWG6cyjI",
+      "title": "Behold the Lamb (of God) | Communion Hymn | Martin Willett | Catholic Choir & Piano with Lyrics"
+    },
+    {
+      "id": "ezpbVQqmkms",
+      "title": "Healer of Our Every Ill | Christian Healing Song | Marty Haugen | SATB Choir & Organ w/Lyrics"
+    },
+    {
+      "id": "s0_ncKfNwD4",
+      "title": "Out of Darkness | Tom Kendzia | Catholic Easter & Christmas Song | Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "i08da4iH9Dw",
+      "title": "Only a Shadow (Of Your Love For Me) | Catholic Hymn by Carey Landry | Choir with Lyrics"
+    },
+    {
+      "id": "C4R8D3bNTLE",
+      "title": "I Am the Bread of Life | Catholic Hymn | Beautiful Choir Version w/ Lyrics, Oboe & Strings | Proulx"
+    },
+    {
+      "id": "hV7dyI4tYt8",
+      "title": "Return To God (With All Your Heart) | Catholic Hymn for Mercy, Forgiveness, Lent | Choir w/Lyrics"
+    },
+    {
+      "id": "DRWsfeI9fxM",
+      "title": "Songs of Hope | Eight Inspiring Catholic Church Songs for Healing | Christian Hymns | Choir & Lyrics"
+    },
+    {
+      "id": "PFUowm_Ygp4",
+      "title": "They'll Know We Are Christians (By Our Love) | Catholic/Christian Hymn | Choir w/Lyrics | All Verses"
+    },
+    {
+      "id": "JeDC24BBSXw",
+      "title": "We Are Surrounded (By a Great Cloud of Witnesses) | Christian Hymn | Saints of God | J. Martin"
+    },
+    {
+      "id": "IoA8o6SI-rc",
+      "title": "How Beautiful | Twila Paris | Arr. by L. Larson | Choir w/Lyrics | Corpus Christi / Body of Christ"
+    },
+    {
+      "id": "NXf9QIqdGI8",
+      "title": "Corpus Christi Sequence | Shorter Form | James Poppleton | Catholic Choir w/Lyrics | Lauda Sion"
+    },
+    {
+      "id": "VR-c7MSsbqs",
+      "title": "Holy, Holy, Holy! (Lord God Almighty) | Trinity Sunday Christian Hymn | NICAEA | Choir w/ Lyrics"
+    },
+    {
+      "id": "imSpoTxbDRI",
+      "title": "All Hail Adored Trinity | Holy Trinity Hymn | OLD HUNDREDTH | Christian Song | Choir with Lyrics"
+    },
+    {
+      "id": "d4i_WI0TLwk",
+      "title": "Creator Spirit, By Whose Aid | Pentecost Song / Holy Spirit Hymn | Choir with Lyrics | Catholic Hymn"
+    },
+    {
+      "id": "bpN_Vcff1lI",
+      "title": "Send Us Your Spirit | Dan Schutte | Holy Spirit / Pentecost Hymn | Solo w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "LSVfgo8kMns",
+      "title": "How Great Thou Art | Beautiful Choir with Lyrics & Piano | Traditional Christian Hymn | Stuart Hine"
+    },
+    {
+      "id": "zGnJ1C-zYCo",
+      "title": "Christians Let Us Love One Another | Choir with Lyrics | PICARDY | Catholic Hymn | Sunday 7pm Choir"
+    },
+    {
+      "id": "dwA-fimg5W4",
+      "title": "Sing of Mary (Pure and Lowly) | Catholic Marian Hymn | Mary Song | Choir & Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "8yEYOY9nUZI",
+      "title": "City of God | Introducing Pope Leo XIV | Catholic Hymn with Lyrics | Dan Schutte | Sunday 7pm Choir"
+    },
+    {
+      "id": "9mMf8UfD9eg",
+      "title": "Salve Regina | Hail, Holy Queen | Gregorian Chant | Latin & English Lyrics | Marian & Rosary Hymn"
+    },
+    {
+      "id": "4pPrtnfUCjI",
+      "title": "Two Were Bound for Emmaus | Bob Hurd | Catholic Hymn | Based on Luke 24 & John 21 | Choir w/ Lyrics"
+    },
+    {
+      "id": "ifjEsgXmoSM",
+      "title": "Servant Song | Remembering Pope Francis | Catholic Hymn with Lyrics | D.M. McGargill | Choir & Piano"
+    },
+    {
+      "id": "UqH8GBzjSUc",
+      "title": "Christ Be Our Light | Easter Vigil Verses | B. Farrell | Catholic Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "nIqw_JBf1ms",
+      "title": "God So Loved The World | John Stainer | From \"The Crucifixion\" | Good Friday | Choir/Lyrics Jn 3:16"
+    },
+    {
+      "id": "y4Red8JTuQM",
+      "title": "Glory in the Cross | D. Schutte | Holy Thursday Verses | Lent Hymn & Holy Week Song | Choir w/Lyrics"
+    },
+    {
+      "id": "K961qgCBUK4",
+      "title": "The Seven Last Words from the Cross | O Vos Omnes | Lenten Hymn | Good Friday | Choir w/Lyrics"
+    },
+    {
+      "id": "hdSdVp0EPtU",
+      "title": "Again We Keep This Solemn Fast | Organ + Choir + Lyrics | Lenten Hymn / Song | Sunday 7pm Choir"
+    },
+    {
+      "id": "WrsrUQAMu0g",
+      "title": "Were You There (When They Crucified My Lord) | Traditional Lenten Spiritual Hymn | Choir w/ Lyrics"
+    },
+    {
+      "id": "CHybcRCg4BE",
+      "title": "The Glory of These Forty Days (All Five Verses) | Traditional Lenten Hymn | Choir & Organ w/ Lyrics"
+    },
+    {
+      "id": "u2Li7FrW9HY",
+      "title": "In These Days of Lenten Journey | Lenten Hymn Catholic | R. Manalo | Choir w/ Lyrics | Lent Song"
+    },
+    {
+      "id": "YzxYglZL2kA",
+      "title": "Holy Hour of Lent | 19 Prayerful Lenten Hymns |  Catholic Choir w/Lyrics | Lent Songs Catholic 2025"
+    },
+    {
+      "id": "rREWo9SqDxI",
+      "title": "Make Me A Channel of Your Peace (Updated Choir Version with Lyrics) | Catholic Prayer of St. Francis"
+    },
+    {
+      "id": "mcVBwSBsn2w",
+      "title": "Sent Forth By God's Blessing | Catholic Hymn | ASH GROVE | Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "CZetCZgM7_Y",
+      "title": "Adoro Te Devote | Catholic Music | St. Thomas Aquinas Hymn | Gregorian Chant | Latin"
+    },
+    {
+      "id": "309hyKA2VQ4",
+      "title": "Lord, You Give The Great Commission | Sunday of the Word of God | Catholic/Christian Hymn w/Lyrics"
+    },
+    {
+      "id": "gEUPG7AtXSM",
+      "title": "We Shall Draw Water Joyfully | Isaiah 12 | Paul Inwood | Choir w/Lyrics | Wedding at Cana | Vigil"
+    },
+    {
+      "id": "vDmAYNq2YDw",
+      "title": "Baptized in Water (Sealed by the Spirit) | Christian Hymn | Baptism of Jesus | Choir w/Lyrics"
+    },
+    {
+      "id": "0vkSGAXlyT0",
+      "title": "We Three Kings | Feast of the Epiphany | Three Magi Christmas Carol & Hymn | Choir & Piano w/Lyrics"
+    },
+    {
+      "id": "QEFeqsXe3Mo",
+      "title": "Holy Family | Feast of the Holy Family | Danielle Rose and Peter Kolar | Choir & Piano w/ Lyrics"
+    },
+    {
+      "id": "jVTKgHkPq8M",
+      "title": "O Magnum Mysterium | Morten Lauridsen | Latin Christmas Motet | Choir & Piano w/ Lyrics"
+    },
+    {
+      "id": "mG62YDQ09Dw",
+      "title": "Night of Silence / Silent Night | New & Traditional Christmas Carol | Choir, Piano & Organ w/ Lyrics"
+    },
+    {
+      "id": "sq3gEtTr5lQ",
+      "title": "The King Shall Come When Morning Dawns | Advent Christian Hymn | John Brownlie | Choir w/ Lyrics"
+    },
+    {
+      "id": "4T3-ZRR7hvg",
+      "title": "Come, O Long Expected Jesus | Advent Christian Hymn | STUTTGART | Choir w/ Lyrics"
+    },
+    {
+      "id": "6G9v4rCseEM",
+      "title": "To Jesus Christ Our Sovereign King | Christ the King | Choir, Piano and Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "UgXMl0VBzcM",
+      "title": "Over My Head (I Hear Music In The Air) | Traditional Spiritual | Christian Hymn with Piano & Lyrics"
+    },
+    {
+      "id": "vS6upqgE9MI",
+      "title": "Let Us Sing to the Lord - Exodus 15 | Roger Holtz | Choir w/Piano, Violin & Lyrics | Easter Vigil"
+    },
+    {
+      "id": "7FA7vW5yo0M",
+      "title": "Ubi Caritas (Est Vera, Deus Ibi Est) | Bob Hurd | Catholic Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "9oQxkziD-28",
+      "title": "For the Healing of the Nations | Christian Hymn of Peace | Choir and Organ with Lyrics"
+    },
+    {
+      "id": "IIY-pCdtnEs",
+      "title": "Mary, Woman of the Promise | Catholic Marian Hymn | Mary Song | Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "cDdniihKBzI",
+      "title": "Here I Am, Lord (I the Lord of Sea and Sky) | Catholic Hymn | Choir with Lyrics | Christian Song"
+    },
+    {
+      "id": "75hxo5ZGNeQ",
+      "title": "Ave Maria | Hail Mary Song | Choir with Lyrics | Daniel Kantor | Holy Rosary | Sunday 7pm Choir"
+    },
+    {
+      "id": "80MCpSMDs6E",
+      "title": "Be Thou My Vision | Beautiful Choir with Lyrics | Traditional Christian Celtic/Irish Hymn | SLANE"
+    },
+    {
+      "id": "u8bsHXwuVjQ",
+      "title": "I Come With Joy (A Child Of God) | Christian Children's Song | Catholic First Communion Hymn"
+    },
+    {
+      "id": "V6GrcvL698Y",
+      "title": "Songs of the Cross | 10 Catholic & Other Christian Hymns of Jesus & His Sacrifice | Choir w/ Lyrics"
+    },
+    {
+      "id": "iGDb0TaC5yA",
+      "title": "Christ Be Beside Me (Christ Be Before Me) | BUNESSAN | Catholic Hymn | Organ & Choir with Lyrics"
+    },
+    {
+      "id": "XpADXWSzzvE",
+      "title": "Look Beyond (the Bread You Eat) | Darryl Ducote | Catholic Communion Hymn | Choir & Piano w/ Lyrics"
+    },
+    {
+      "id": "fhOWed1xY68",
+      "title": "Tantum Ergo | Catholic Latin Hymn | Adoration/Corpus Christi | Choir & Organ, Latin & English Lyrics"
+    },
+    {
+      "id": "xfkPTmry3zI",
+      "title": "Hail, Queen of Heaven (The Ocean Star) | Marian Hymn | Catholic Choir w/Piano & Lyrics | Assumption"
+    },
+    {
+      "id": "Cvqj5DAKbC0",
+      "title": "The Supper of the Lord | L. Rosania | Catholic Communion Song | Eucharistic Hymn | Choir with Lyrics"
+    },
+    {
+      "id": "gADDeVUH4uc",
+      "title": "I Am the Bread of Life | All 5 Verses with Lyrics & Choir | Suzanne Toolan | Catholic Communion Hymn"
+    },
+    {
+      "id": "kxoSBcuEGgw",
+      "title": "Come to the Feast | Bob Hurd | Five Loaves & Two Fishes | Catholic Hymn w/Lyrics | (Ven al Banquete)"
+    },
+    {
+      "id": "6FasN8fukrs",
+      "title": "The Summons | Catholic Hymn | John L. Bell | KELVINGROVE | Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "8I-m9xKnCY4",
+      "title": "Songs for the Journey | Catholic Songs & Other Christian Hymns of Blessing, Travel & Discipleship"
+    },
+    {
+      "id": "WFLuTgzJe6Y",
+      "title": "For You Are My God | Catholic Hymn of Faith | John Foley | Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "3JnydJo36C0",
+      "title": "I Was On The Outside | Song of Mark | Marty Haugen | Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "aFj68DbbHRI",
+      "title": "Be Still, My Soul | Traditional Christian Hymn of Healing & Comfort | FINLANDIA | Choir with Lyrics"
+    },
+    {
+      "id": "_AMvzan3EKM",
+      "title": "Let There Be Peace on Earth | Choir and Piano with Lyrics | Song for World Peace | Christian Hymn"
+    },
+    {
+      "id": "xKOKUbMiy-8",
+      "title": "Laud, O Zion | Corpus Christi Sequence (Short Form) | Body and Blood of Christ | Sunday 7pm Choir"
+    },
+    {
+      "id": "spsuT0lbpjk",
+      "title": "Holy Trinity Songs | Three Traditional Christian Hymns to the Trinity | Choir with Lyrics"
+    },
+    {
+      "id": "ZB260OIJTH8",
+      "title": "Holy Spirit, We're Calling You | Pentecost Song / Confirmation Hymn | Ed Bolduc | Sunday 7pm Choir"
+    },
+    {
+      "id": "gfXdOxfEgwc",
+      "title": "Mother Mary Songs | Marian Songs & Hymns | Catholic Mother's Day Songs | Sunday 7pm Choir"
+    },
+    {
+      "id": "nXcKJdOD6yY",
+      "title": "O Word of God | Ricky Manalo | Psalms 23, 40, 95, 146 | Catholic Song w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "MODUEB_NW-U",
+      "title": "Shepherd Me, O God - Psalm 23 | Marty Haugen | Catholic Choir w/Piano and Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "v3bZKOHQ-8I",
+      "title": "Two Were Bound for Emmaus | Catholic Hymn | Bob Hurd | Choir & Piano w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "EfQiEFkGcKg",
+      "title": "The Lord Is Kind and Merciful | Psalm 103 | Divine Mercy | Marty Haugen | Choir with Lyrics"
+    },
+    {
+      "id": "KXvJxYXePnE",
+      "title": "Christ Is Arisen | Easter Sequence | RISEN KING | Catholic Choir & Piano w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "GFBo0qQ0r54",
+      "title": "Palm Sunday Entrance Antiphon | Palm Sunday Hosanna Song / Introit with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "LzsVkJciwfw",
+      "title": "Lord of All Hopefulness | St. Patrick's Day | Traditional Irish Melody (SLANE) | Choir w/Lyrics"
+    },
+    {
+      "id": "umLK1RgAZyg",
+      "title": "Jesus, Remember Me | Taizé | Lenten Catholic Hymn | Good Friday | Choir w/ Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "-yUuUMFRBds",
+      "title": "Amazing Grace (My Chains Are Gone) | Chris Tomlin / Arr. by James Koerts | Choir & Piano w/ Lyrics"
+    },
+    {
+      "id": "40LLj68MpGg",
+      "title": "Lord, Here Am I | J. Althouse | Christian Hymn of Service | Choir, Piano w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "Qbgam8mf9kQ",
+      "title": "Jesus Walked This Lonesome Valley | Traditional Lent Spiritual | Choir & Piano w/ Lyrics | Lent 2024"
+    },
+    {
+      "id": "YeVJKhdjoqM",
+      "title": "Hymns of Lent, Catholic Lenten Songs | Ash Wednesday, Holy Thursday, Good Friday 2024 | Choir Lyrics"
+    },
+    {
+      "id": "663gNJTDWPU",
+      "title": "Healing River of the Spirit | Hymn of Healing | Healing Christian Music | Ruth Duck | Beach Spring"
+    },
+    {
+      "id": "Kh4XxlWZhMs",
+      "title": "I Heard the Voice of Jesus Say | Christian Hymn | Choir & Piano w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "KHMtwfTEwss",
+      "title": "Come To Me and Find Rest | Matthew 11:28-29 | Christian Song of Peace & Comfort | Choir with Lyrics"
+    },
+    {
+      "id": "gMZOc7SGHBU",
+      "title": "Heritage Mass | A Catholic Mass Setting by Owen Alstott | SATB & Unison | Choir and Piano w/Lyrics"
+    },
+    {
+      "id": "CwZqFCn6n0o",
+      "title": "Enniscorthy (Wexford) Carol | Traditional Irish Christmas Carol | Epiphany | Choir w/ Lyrics"
+    },
+    {
+      "id": "Xvx5zEHesA0",
+      "title": "Ave Maria (Mary Sing With Joyful Heart) | Five Joyful Mysteries | Solemnity of Mary, Mother of God"
+    },
+    {
+      "id": "u5m6cjeHg-g",
+      "title": "Angels We Have Heard On High | Beautiful Christmas Carol | S. Strite Arrangement | Choir w/Lyrics"
+    },
+    {
+      "id": "YLyoHj2rb-g",
+      "title": "One Hour of Traditional Christmas Carols | SFDS 2023 Christmas Concert | Choir w/Lyrics | 16 Songs"
+    },
+    {
+      "id": "-_4NV6X56cg",
+      "title": "More Traditional Christmas Carols | 8 Christian Christmas Choral Songs | Medley with Lyrics"
+    },
+    {
+      "id": "rKT9HQGfqrk",
+      "title": "More Songs of Advent | Beautiful Catholic Advent Hymns & Christian Advent Songs | Choir w/ Lyrics"
+    },
+    {
+      "id": "io_jYwIFVus",
+      "title": "Because the Lord Is My Shepherd | Christ the King | Psalm 23 | C. Walker | Sunday 7pm Choir"
+    },
+    {
+      "id": "cR0DqLvUo2s",
+      "title": "Give Thanks and Glorify His Name | Thanksgiving Christian Song | Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "bwfKYpymoRI",
+      "title": "Table of Plenty | Dan Schutte | Catholic Communion Hymn | Choir & Piano w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "24xpcYPkoZI",
+      "title": "Hallelujah | Leonard Cohen / R. Emerson | From \"Shrek\" | Choir & Piano w/ Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "CUFimbB3MzM",
+      "title": "Rejoice, Be Glad | Beatitudes | Adam Tice & Kate Williams | Choir and Piano w/Lyrics | Catholic Hymn"
+    },
+    {
+      "id": "43Qdu8eR0YA",
+      "title": "Rejoice, Be Glad | Beatitudes | Adam Tice & Kate Williams | Choir and Piano w/Lyrics | Catholic Hymn"
+    },
+    {
+      "id": "3tWyFC0S4cA",
+      "title": "I Say Yes, My Lord (Digo Si, Señor) | English Lyrics w/Piano | Donna Peña / Marty Haugen | S7C"
+    },
+    {
+      "id": "guxMeMsRLEM",
+      "title": "The Lord, My Shepherd Rules My Life | Catholic Song w/Lyrics | Psalm 23 | C. Idle | Sunday 7pm Choir"
+    },
+    {
+      "id": "7H3mY7PWU7c",
+      "title": "Songs of the Rosary | Catholic & Mary Hymns for the Joyful, Luminous, Sorrowful & Glorious Mysteries"
+    },
+    {
+      "id": "C9LAWogWkGw",
+      "title": "Seek The Lord (While He May Be Found) | Roc O'Connor SJ | Catholic Hymn w/ Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "Hl1QOsDHR00",
+      "title": "Loving and Forgiving (Are You, O Lord) | Psalm 103 | Scott Soper | Catholic Hymn | Choir with Lyrics"
+    },
+    {
+      "id": "DHhZlHx2inU",
+      "title": "All Praise and Glad Thanksgiving | Holy Trinity Song | Traditional Christian Hymn | Choir & Lyrics"
+    },
+    {
+      "id": "RzUz3ny4Uzw",
+      "title": "Lift High The Cross | Traditional Christian Hymn with Lyrics | Choir & Piano | Sunday 7pm Choir"
+    },
+    {
+      "id": "GwRYWSHuBNs",
+      "title": "Music of the Mass | Latin Hymns & Chants | Catholic Church Songs | Choir w/ Lyrics & Translations"
+    },
+    {
+      "id": "5e4e5RBkRnU",
+      "title": "Bread of Life (Hope of the World) | Catholic Communion Hymn | Bernadette Farrell | Choir with Lyrics"
+    },
+    {
+      "id": "RPwxdS5gRqI",
+      "title": "Songs of Courage | Beautiful Catholic Church Songs & Other Christian Hymns to Strengthen your Faith"
+    },
+    {
+      "id": "9-BlO8trHII",
+      "title": "'Tis Good Lord To Be Here | Transfiguration Hymn | Choir & Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "7GcTkmEoluI",
+      "title": "O Sanctissima | Mary Song | Catholic Hymn | Choir with Lyrics | Latin & English | Sunday 7pm Choir"
+    },
+    {
+      "id": "lQaSFKRICv4",
+      "title": "In This Place | Opening Hymn | V & T Thomson | Catholic Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "kw3XTnDjCg0",
+      "title": "Gift of Finest Wheat (You Satisfy The Hungry Heart) | Parable of the Sower Song | Choir with Lyrics"
+    },
+    {
+      "id": "CjQH84sTjOo",
+      "title": "I Will Praise You, Lord | Psalm 30 | Catholic Morning Prayer | Roger Holtz | Choir w/Lyrics"
+    },
+    {
+      "id": "eB-z6CAhtn4",
+      "title": "Come To The River | Bob Hurd | Mass of Glory | Baptism | Catholic Choir w/ Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "i5V3gO7VSPs",
+      "title": "Keep Me Safe, O God (You Are My Hope) | John Foley | Psalm 16 | Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "fYz14jEoaeU",
+      "title": "Make Me A Channel of Your Peace | Prayer of St. Francis Song | Choir with Lyrics | Catholic Hymn"
+    },
+    {
+      "id": "HhoPAIhlc2M",
+      "title": "Music of the Mass | 8 More Beloved Communion Songs | Catholic Church Songs & Hymns | Choir w/ Lyrics"
+    },
+    {
+      "id": "AEgm1Bt2Urc",
+      "title": "Send Us Your Spirit | Dan Schutte | Holy Spirit / Pentecost Hymn | Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "HXLX2vVDgQc",
+      "title": "Jubilate Deo | Psalm 100 | Ascension | Peter Anglea | Choir w/ Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "3auYdpFr5N4",
+      "title": "Your Words Are Spirit and Life | Bernadette Farrell | Catholic Hymn | Choir w/ Lyrics"
+    },
+    {
+      "id": "YZ34c41pBgQ",
+      "title": "Come To The Lord | Catholic Hymn w/ Lyrics | First Communion Song | S. Angrisano | Sunday 7pm Choir"
+    },
+    {
+      "id": "rZDU9tfNUNM",
+      "title": "The Lord Is My Shepherd (Psalm 23) | H. Goodall | Good Shepherd Sunday | Choir w/ Lyrics"
+    },
+    {
+      "id": "3J35MEEgX3c",
+      "title": "In the Breaking of the Bread | Bob Hurd | Communion Hymn | Catholic Church Song | Sunday 7pm Choir"
+    },
+    {
+      "id": "3Q5RqOjkEZo",
+      "title": "Jesus Is Risen | Easter Hymn | Divine Mercy | Catholic Choir & Piano w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "yZBGWMDw7-4",
+      "title": "Hallelujah Chorus (From Handel's Messiah) | Easter Hymn | Choir & Piano w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "HWPv-z2gfLY",
+      "title": "All Glory, Laud and Honour | Palm Sunday | Choir with Lyrics | Christian Hymn | Sunday 7pm Choir"
+    },
+    {
+      "id": "-eq1FZrVcB4",
+      "title": "Songs of Healing | Healing Music, Christian Music to Heal the Body & Soul, Healing Songs of Worship"
+    },
+    {
+      "id": "RA5PFQpIuFA",
+      "title": "Open My Eyes (Lord) | Jesse Manibusan | Choir w/Lyrics | Jesus Heals the Blind | Sunday 7pm Choir"
+    },
+    {
+      "id": "OBh-n5qyXBc",
+      "title": "Stay With Me (Remain Here With Me) | Taizé Chant | Lent | Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "lsm919bwwag",
+      "title": "Bless the Lord, My Soul | Taizé Chant | Lent | Praise | Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "AekRWskB2pQ",
+      "title": "Parce Domine (Parce Populo Tuo) | Lenten Chant | Gregorian Chant | Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "A2r9ucRtbLA",
+      "title": "More Songs of Lent | Lent 2023 | Lent Songs Catholic | Music for the Lenten Season | Choir w/Lyrics"
+    },
+    {
+      "id": "U3AP9l1Gyt0",
+      "title": "One Day At A Time (Sweet Jesus) | Beautiful Choir & Piano with Lyrics | Christian Song"
+    },
+    {
+      "id": "kITPzGVq5vo",
+      "title": "All That Is Hidden (Will Be Made Clear) | Bernadette Farrell | Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "2YkrpwawuGU",
+      "title": "Seek Ye First (The Kingdom of God) | Catholic & Christian Hymn | Choir w/ Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "jUg0YoIsnqY",
+      "title": "Follow Me (To The Sea) | Catholic Folk Song | Ray Repp | Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "EcxRvfTC2D8",
+      "title": "Come To The Water | Beautiful Choral Arrangement | John Foley | Catholic Hymn | Choir with Lyrics"
+    },
+    {
+      "id": "Wy4g5uk2nxo",
+      "title": "The First Noel | Epiphany & Christmas Carol | Three Kings Day | Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "FoYoO_B-HyA",
+      "title": "Hymns to Mary | Mother Mary Hymns and Catholic Songs | Mary Songs | Hail Mary | Sunday 7pm Choir"
+    },
+    {
+      "id": "SqIjlIjt-nI",
+      "title": "O Holy Night | Beautiful Christmas Carol | All Verses | Solo & Piano w/ Lyrics  | Sat. 5pm Choir"
+    },
+    {
+      "id": "i85XG4OwQ8s",
+      "title": "Holy Is His Name | Magnificat | Canticle / Song of Mary | John Michael Talbot | Sunday 7pm Choir"
+    },
+    {
+      "id": "1cn9comc7kU",
+      "title": "Lord Jesus, Of You I Will Sing | L'Arche Hymn | Catholic Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "2TM4bX9t_jU",
+      "title": "O Come Divine Messiah | Advent | Choir with Lyrics | Traditional Christian Hymn | Sunday 7pm Choir"
+    },
+    {
+      "id": "Ve9-cbc2C1o",
+      "title": "Songs of Meditation | Catholic Morning and Night Prayers | Catholic Meditation | Advent Music"
+    },
+    {
+      "id": "wGK1Up1_eiw",
+      "title": "Crown Him With Many Crowns | Feast of Christ the King | Choir, Piano and Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "VVCGJpDT6cw",
+      "title": "Music of the Mass | 8 Closing Songs for Church | Closing Hymns for Catholic Mass | Choir w/ Lyrics"
+    },
+    {
+      "id": "NdHNWUTKDfc",
+      "title": "Refuge | Keith Christopher | Choir & Piano with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "Ym-14f8j6_c",
+      "title": "O God Beyond All Praising | Catholic Choir, Piano w/Lyrics | Proulx/Holst/Thaxted | Sunday 7pm Choir"
+    },
+    {
+      "id": "4ZRMcgj1YnY",
+      "title": "Turn Our Hearts (To You, O God) | Catholic Meditation Music | Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "a9LtILkP0G8",
+      "title": "Shelter Me, O God | Bob Hurd | Catholic Church Song | Choir & Piano with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "RaH2OWndHjk",
+      "title": "Turn To Me (O Turn, and be Saved) | Catholic Church Song with Lyrics | John Foley | Sunday 7pm Choir"
+    },
+    {
+      "id": "ErmK1fmkV5w",
+      "title": "Songs of Praise and Worship I 8 Christian Songs of Praise | Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "KAp8U2LaoLw",
+      "title": "Salvator Mundi (Salva Nos) | Taizé Chant | Catholic Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "SuUGPniE1D4",
+      "title": "Holy God, We Praise Thy Name | Traditional Christian Hymn | Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "y9dbe21_F8w",
+      "title": "Father I Have Sinned (Help Me Find My Way) | Prodigal Son Song | Choir/Piano + Instrumental Version"
+    },
+    {
+      "id": "J43UNvSn7FE",
+      "title": "In Every Age | Janet Sullivan Whitaker | Psalm 90 | Refuge | Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "OvPEqKljMU0",
+      "title": "Children Of The Light | First Communion Hymn | Choir w/ Lyrics | Eugene O’Reilly | Sunday 7pm Choir"
+    },
+    {
+      "id": "V9Ho5RmREXo",
+      "title": "Songs of Justice | 8 Catholic Church Songs and Christian Hymns of Faith | Catholic Choir with Lyrics"
+    },
+    {
+      "id": "SmHPrg8d2P4",
+      "title": "Jesus, Hope of the World | Deanna Light & Paul Tate | Catholic Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "ePlaXpUTo04",
+      "title": "We Walk By Faith (and not by Sight) | Marty Haugen | Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "sEzuZEY2G3g",
+      "title": "You Alone (are Holy, you alone are Lord) | Sarah Hart & Dwight Liles | Jesus | Sunday 7pm Choir"
+    },
+    {
+      "id": "_125Hgnf3uk",
+      "title": "Whatsoever You Do (to the least of my people) | Willard Jabusch | Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "wpeV1ymS9n4",
+      "title": "Ain't Got Time To Die | Hall Johnson | Spiritual / Easter Song | Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "Uo7X9t9A7lk",
+      "title": "Spirit and Grace | Communion Hymn | Corpus Christi | Catholic Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "nc2x9qDhbRo",
+      "title": "Laudate Dominum | Mozart | Psalm 117 | Soloist & Choir w/Lyrics | Trinity Sunday | Sunday 7pm Choir"
+    },
+    {
+      "id": "WwB3qRjVIng",
+      "title": "Songs to the Holy Spirit | Holy Spirit Songs | Pentecost Hymns | Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "cSXlhTvLNDI",
+      "title": "Revelation Song | Praise, Easter & Ascension Song | Choir w/Lyrics SATB | Sunday 7pm Choir"
+    },
+    {
+      "id": "hXqTGl6mbYg",
+      "title": "Immaculate Mary | Lourdes Hymn | Choir with Lyrics | 5 Verses | Catholic Hymn | Sunday 7pm Choir"
+    },
+    {
+      "id": "gzJv2oTIGfk",
+      "title": "City of God | Catholic Hymn with Lyrics | Dan Schutte & Jane Holstein | Sunday 7pm Choir"
+    },
+    {
+      "id": "-D7gKjk_bGw",
+      "title": "One Love Released | Communion Hymn / Catholic Song | Catholic Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "aSrbU5kHbTU",
+      "title": "Music of the Mass | One hour of Catholic Music from Easter Vigil | Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "_qAaifGB_i8",
+      "title": "O Sons and Daughters | Easter Hymn | O Filii Et Filiae | Doubting Thomas | Sunday 7pm Choir"
+    },
+    {
+      "id": "AQVog92kLH8",
+      "title": "Three Days | Easter Hymn | Easter Song of Resurrection | Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "iATSwph9wFQ",
+      "title": "O Sacred Head, Surrounded | Passion Chorale | Lenten Hymn | Good Friday | Choir | Sunday 7pm Choir"
+    },
+    {
+      "id": "loQg_dfb67Q",
+      "title": "Songs of Mercy | 10 Catholic and Other Christian Songs of Forgiveness | Catholic Choir with Lyrics"
+    },
+    {
+      "id": "W4Dcg1LVldQ",
+      "title": "God's Peace | Come Away From Rush and Hurry | Beach Spring | Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "UAgyl9TS5zg",
+      "title": "Lord, We Adore You | One Hour Prayer Video for Prayer, Adoration & Focus | Choir | Sunday 7pm Choir"
+    },
+    {
+      "id": "T7gaPcP9sz4",
+      "title": "Create In Me A Clean Heart | Psalm 51 | Catholic Song | Lent | Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "Dfc6c21O7Bo",
+      "title": "Lord, We Adore You | Lenten Hymn | Good Friday Song | Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "CRwnXJwBdCg",
+      "title": "Again We Keep This Solemn Fast | Lenten Catholic Hymn / Song | Choir w/ Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "PZlXIq-qd7g",
+      "title": "Songs of the Angels | Catholic Funeral Hymn | Cantor & Piano w/ Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "F6eqoNV4JVw",
+      "title": "Songs to Jesus | Holy Son of God | 10 Catholic & Other Christian Songs of Jesus | Choir | Easter"
+    },
+    {
+      "id": "scKp29vqb2I",
+      "title": "Lead Me, Lord | John Becker | The Beatitudes | Catholic Hymn | Choir  w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "nGpM9m3hNSo",
+      "title": "Lord, You Have Come (to the Seashore) | Fisher of Men | Choir & Piano w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "5pEg2CPuk88",
+      "title": "Go Into The World | Song based on St. Teresa of Calcutta quote | Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "WHAu3fLF7NI",
+      "title": "One Bread One Body | Communion Hymn / Catholic Song | John Foley | Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "vBui_t5GF7w",
+      "title": "Isaiah 12: We Shall Draw Water Joyfully | Paul Inwood | Cantor & Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "l8_4Rcy2oJI",
+      "title": "River of Glory | Music for Baptism / Christian Initiation | Music by Dan Schutte | Sunday 7pm Choir"
+    },
+    {
+      "id": "Y6HbKtIGYfc",
+      "title": "Songs to Mary Part 2, Holy Mother of God | 10 More Marian Hymns & Catholic Songs | Sunday 7pm Choir"
+    },
+    {
+      "id": "weeL0d7cUz4",
+      "title": "Mary's Boy Child | Christmas Song | Choir with Lyrics & Piano | Sunday 10:15am Choir"
+    },
+    {
+      "id": "0GvsxjSxCho",
+      "title": "Ave Maria & The Magnificat | Marian Chants | Hail Mary & Song of Mary | Sunday 7pm Choir"
+    },
+    {
+      "id": "n3lVEpTotsw",
+      "title": "Soon and Very Soon | Advent Song | Second Coming | A.Crouch | Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "2X5nzx3xfJg",
+      "title": "Awaken and Prepare Us | Advent Anthem | M.Hayes/H.Frombach | Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "6yvVSG4ncMc",
+      "title": "Songs of Advent | 8 Christian & Catholic Advent Hymns & Songs | Choir w/ Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "gwQKx5OXITs",
+      "title": "Songs of Christmas | 8 Beautiful Christmas Carols | Christian Carols | Choir & Piano w/Lyrics | S7C"
+    },
+    {
+      "id": "KZSjCAqCzNI",
+      "title": "Psalm 16: Keep Me Safe, O God | Ian Callanan | Cantor & Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "XdLlxkG0FhA",
+      "title": "Music of the Mass | 8 Beloved Offertory Songs | Catholic Hymns | Choir w/ Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "LUjvlLtrH4k",
+      "title": "Songs of Solace | 8 Beautiful Christian Memorial & Catholic Funeral Songs | Piano | Sunday 7pm Choir"
+    },
+    {
+      "id": "DZyaYEoWjhw",
+      "title": "Be Thou My Vision | Christian / Celtic Hymn | Choir & Piano w/Lyrics | 2 Versions | Sunday 7pm Choir"
+    },
+    {
+      "id": "NI5WssVmw2o",
+      "title": "Servant Song | Catholic Hymn with Lyrics | D.M. McGargill | Rosary/Marian Song | Sunday 7pm Choir"
+    },
+    {
+      "id": "6HjrG51xEyM",
+      "title": "Songs of the Servant | 8 Catholic & Christian Hymns of Service | Choir w/ Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "HBFTO1W5R-o",
+      "title": "Ubi Caritas | 3 Musical Settings: Taizé, Chant & Hymn | Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "25iTOf4hbMM",
+      "title": "Psalm 19: Lord You Have The Words | Joncas Setting | Cantor & Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "UvVSaqP5fMc",
+      "title": "Music of the Mass | 8 Entrance Songs | 8 Opening Catholic Hymns | Choir w/ Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "pKsh9ZPM0tY",
+      "title": "Take Up Your Cross (The Saviour Said) | Traditional Christian Hymn | Choir+Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "d9QlPiIGGTs",
+      "title": "Music of the Mass | 8 Beloved Communion Songs | Catholic Hymns | Choir w/ Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "VZ20zpPxiCQ",
+      "title": "Taste and See (the Goodness of the Lord) | Catholic Communion Hymn | Tom Kendzia | Sunday 7pm Choir"
+    },
+    {
+      "id": "0P6EVINaVvs",
+      "title": "Songs to Mary | Annunciation, Magnificat & Assumption | Marian / Catholic Hymns | Sunday 7pm Choir"
+    },
+    {
+      "id": "crgIRDh6IaA",
+      "title": "I Received the Living God | Eucharistic Song | Communion Hymn | Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "b4EsaIBMp9c",
+      "title": "Taste and See | Catholic Communion Hymn | James E. Moore Jr. | Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "DjCHz8UzuxQ",
+      "title": "Songs of Comfort | 8 Catholic Church Songs and Christian Hymns of Faith | Catholic Choir with Lyrics"
+    },
+    {
+      "id": "RS6aRB6ZcPo",
+      "title": "Journeysong | Opening Hymn | Bob Hurd | Discipleship | Catholic Song | Sunday 7pm Choir"
+    },
+    {
+      "id": "XfBLfHV8sdQ",
+      "title": "O Canada | Canadian National Anthem | Beautiful Choir with Piano | Updated Lyrics"
+    },
+    {
+      "id": "8BWKmahZgLM",
+      "title": "O Lord, Hear My Prayer | Taizé | Choir with Lyrics | Jacques Berthier | Psalm 102 | Sunday 7pm Choir"
+    },
+    {
+      "id": "IJ0jOjqISPU",
+      "title": "Be Not Afraid | Bob Dufford | Choir with Lyrics | Catholic Hymn | Sunday 7pm Choir"
+    },
+    {
+      "id": "BpQzLl4eT6E",
+      "title": "Our God Is Here | Opening Hymn / Gathering Song | C. Muglia | Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "I1szB_qtDpw",
+      "title": "Eat This Bread (Drink This Cup) | Taizé Song | Corpus Christi | Catholic Hymn | Sunday 7pm Choir"
+    },
+    {
+      "id": "GOsfxZQSCRU",
+      "title": "O Triune God | Holy Trinity Song | Ken Canedo | Jazz Waltz | Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "2mOT3KIGK4w",
+      "title": "Psalm 104: Lord, Send Out Your Spirit | Pentecost | K.Canedo | Choir & Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "2D0ncpEMcGM",
+      "title": "Gloria | Latin Chant | Glory to God | Choir with Lyrics (Latin & English) | Sunday 7pm Choir"
+    },
+    {
+      "id": "sWe95K5BEoM",
+      "title": "Ave Maria | Schubert | Solo & Choir with Lyrics (Latin & English) | Hail Mary | Sunday 7pm Choir"
+    },
+    {
+      "id": "WP_qdIvXod0",
+      "title": "Yes, My Jesus Loves Me | First Communion & Baptism Song | Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "jLaVLAWaD1Q",
+      "title": "Like A Shepherd (He Feeds His Flock) | Catholic Song w/Lyrics | Bob Dufford | Sunday 7pm Choir"
+    },
+    {
+      "id": "VD4joM7lNws",
+      "title": "I Will Rise | Easter and Ascension Song | Chris Tomlin | Choir w/Lyrics SATB | Sunday 7pm Choir"
+    },
+    {
+      "id": "6RGi8tO8ZGM",
+      "title": "Merciful God | Divine Mercy Song | Choir with Lyrics | Bringle/Alonso | Lent Song | Sunday 7pm Choir"
+    },
+    {
+      "id": "nkqCQj1tUDA",
+      "title": "Songs of Easter, Music for the Resurrection | 8 Easter Hymns | Choir w/Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "FmvPLDASq_w",
+      "title": "Pange Lingua | Catholic Hymn & Chant | Holy Thursday/Corpus Christi | Latin (w/ English translation)"
+    },
+    {
+      "id": "mG6thyHErVc",
+      "title": "Jerusalem My Destiny | Palm Sunday | Lent Songs | Catholic Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "eBtaO_kGrBs",
+      "title": "What Wondrous Love Is This | Lent Songs | Choir with Lyrics | Catholic Music | Sunday 7pm Choir"
+    },
+    {
+      "id": "V7Wu_Y7qGLM",
+      "title": "Songs of Lent, Music for the Lenten Season | 8 Lenten Hymns | Choir w/ Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "kp3DWyqEN28",
+      "title": "Beyond The Days | Lent Songs | Catholic Choir with Lyrics | Ricky Manalo | Sunday 7pm Choir"
+    },
+    {
+      "id": "pJvOejpJltA",
+      "title": "Ashes by Tom Conry | Hymn for Ash Wednesday & Lent | Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "KoUD7pc7644",
+      "title": "O Christ The Healer | Most Powerful Healing Prayer | Padre Pio | Sung & Narrated by Sunday 7pm Choir"
+    },
+    {
+      "id": "x_4urTbhrz4",
+      "title": "Jesus the Lord | Candlemas Feb 2 | Choir with Lyrics | O'Connor/Schutte | Sunday 10:15am Choir"
+    },
+    {
+      "id": "u4_RSIyb7J0",
+      "title": "St. Francis de Sales | Catholic Virtual Tour | Visiting the Places of his Life | Feast Day Jan 24"
+    },
+    {
+      "id": "O3kY302v6l8",
+      "title": "Lord, Here Am I | Jay Althouse | Choir w/Lyrics | Meditation on Seven Sacraments | Sunday 7pm Choir"
+    },
+    {
+      "id": "MeFJykg1h04",
+      "title": "Songs to Mary, Holy Mother of God | 10 Marian Hymns and Catholic Songs | Sunday 7pm Choir | ADCS"
+    },
+    {
+      "id": "vrK-fKtNQyY",
+      "title": "Traditional Christmas Carols | 12 Christian Christmas Choral Songs | Sunday 7pm Choir"
+    },
+    {
+      "id": "CSiEeFhXsLQ",
+      "title": "Gabriel's Message / The Angel Gabriel | Annunciation to Mary | Advent | Sunday 7pm Choir"
+    },
+    {
+      "id": "BhrsSTXXNFg",
+      "title": "Maranatha, Come Lord Jesus | Advent Hymn | Janet Sullivan Whitaker | Choir with Lyrics"
+    },
+    {
+      "id": "fBG_uNYVzRQ",
+      "title": "A Voice Cries Out | Isaiah 40 | Advent Hymn | M. Joncas | Sunday 7pm Choir"
+    },
+    {
+      "id": "Ley1aOPDHCE",
+      "title": "O Come O Come Emmanuel | Advent | Choir with Lyrics | Traditional Christian Hymn | Sunday 7pm Choir"
+    },
+    {
+      "id": "SIhhxhPOwfc",
+      "title": "The Servant Song | Christian & Catholic Hymn | Richard Gillard & Betty Pulkingham | Sunday 7pm Choir"
+    },
+    {
+      "id": "nSjkJiuCaVI",
+      "title": "On Eagle's Wings | Catholic Hymn | Michael Joncas | Faith / Funeral Song | Sunday 7pm Choir"
+    },
+    {
+      "id": "JKUc3HnxDOM",
+      "title": "Music of the Mass Part 2 | 12 More Hymns & Music For A Catholic Mass | Church | Sunday 7pm Choir"
+    },
+    {
+      "id": "ApdAnJTje00",
+      "title": "Attende Domine (Hear Us, O Lord) | Lent Song | Chant | Catholic Plainsong | Sunday 7pm Choir"
+    },
+    {
+      "id": "WLdPoQnylnA",
+      "title": "The King Of Love My Shepherd Is | Christian Hymn | Psalm 23 | Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "PkOrYI5xt0g",
+      "title": "Gather The People (Enter The Feast) | D. Schutte | Catholic Hymn | Choir w/lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "05d91wAzs9k",
+      "title": "I Will Never Forget You, My People (Isaiah 49) | Carey Landry | Catholic Hymn | Sunday 7pm Choir"
+    },
+    {
+      "id": "w_Q0FjuAUZY",
+      "title": "The Cry Of The Poor | John Foley | The Lord Hears | Choir & Piano with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "k16C-ukG-KI",
+      "title": "All That We Have | Gary Ault | Catholic Hymn | Choir with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "OUey6ytEXqY",
+      "title": "Hail Mary, Gentle Woman | Carey Landry | Catholic Hymn | Choir (SATB) with Lyrics | Sunday 7pm Choir"
+    },
+    {
+      "id": "vJec8-pfVQk",
+      "title": "Transfiguration | Christian Hymn with Choir & Lyrics | Wren/Manalo | Sunday 7pm Choir"
+    },
+    {
+      "id": "9o51fVKpK7s",
+      "title": "Here At This Table | Janet Sullivan Whitaker | Catholic Christian Communion Hymn | Sunday 7pm Choir"
+    },
     {
-      "id": "iVcUdDA4yl0",
-      "title": "KJV Audio Bible - Genesis"
+      "id": "1tciJftxk78",
+      "title": "Love Has Come | Matt Maher | Choral Version (SATB) with Lyrics | Sunday 7pm Choir"
     },
     {
-      "id": "dhM52o_RGpU",
-      "title": "KJV Audio Bible - Exodus"
+      "id": "b3wm1ZEXaiM",
+      "title": "Seed, Scattered and Sown | Dan Feiten | Catholic Hymn | Parable of the Sower | Sunday 7pm Choir"
     },
     {
-      "id": "Hp8CbkbwXsY",
-      "title": "KJV Audio Bible -  Leviticus"
+      "id": "SPS1X21PrXQ",
+      "title": "Grace Alone | Christian Hymn | Brown/Nelson/Ijames | SATB, Violin, Cello | Sunday 7pm Choir"
     },
     {
-      "id": "IOf2bmYIxxQ",
-      "title": "KJV Audio Bible - Numbers"
+      "id": "TfxWqvgDi8s",
+      "title": "God Has Work For Us To Do | Miller/SATB | St. Francis de Sales Volunteer Appreciation Video"
     },
     {
-      "id": "UnrCua4B7ks",
-      "title": "KJV Audio Bible - Deuteronomy"
+      "id": "DcjtO4lJX1g",
+      "title": "Veni Creator Spiritus | Latin & English Chant | Pentecost Sequence Trilogy Part 1 | Sunday 7pm Choir"
     },
     {
-      "id": "LFVVT9Lpm1w",
-      "title": "KJV Audio Bible - Joshua"
+      "id": "mZABkEd5VVA",
+      "title": "Come O Holy Spirit | Hymn | Pentecost Sequence Trilogy Part 2 | Beethoven/Alstott | Sunday 7pm Choir"
     },
     {
-      "id": "3w27LrVxesU",
-      "title": "KJV Audio Bible  - Judges"
+      "id": "E2X4YSwyX9s",
+      "title": "Veni Sancte Spiritus | Taize | Pentecost Sequence Trilogy Part 3 | C. Walker | Sunday 7pm Choir"
     },
     {
-      "id": "9Ywig9xq4ho",
-      "title": "KJV Audio Bible - Ruth"
+      "id": "XrHmgGJrMI8",
+      "title": "Go Make Of All Disciples | Traditional Hymn | SATB Choir with Lyrics | Ascension | Sunday 7pm Choir"
     },
     {
-      "id": "AcdFYjpWjSA",
-      "title": "KJV Audio Bible - 1 Samuel"
+      "id": "PzmvagnGTYY",
+      "title": "Abide With Me | Christian Church Hymn | Choral Version (SATB) with Lyrics | Sunday 7pm Choir"
     },
     {
-      "id": "CiPFtjntpc0",
-      "title": "KJV Audio Bible - 2 Samuel"
+      "id": "B37xeQWjOvg",
+      "title": "On This Day, O Beautiful Mother | SATB Choir w/ Lyrics| Mary, Mother of God | Sunday 7pm Choir"
     },
     {
-      "id": "dSc046UzSu8",
-      "title": "KJV Audio Bible - 1 Kings"
+      "id": "_h6IuwCwZaY",
+      "title": "What A Beautiful Name (Gospel Version) | Hillsong | Dedicated to COVID-19 Workers | Sunday 7pm Choir"
     },
     {
-      "id": "at5rQS3CwS0",
-      "title": "KJV Audio Bible - 2 Kings"
+      "id": "66r6tsgLT4g",
+      "title": "Ave Verum Corpus | Mozart | Lyrics with translation | Blessed Sacrament | Sunday 7pm Choir"
     },
     {
-      "id": "19GLtyLLwMo",
-      "title": "KJV Audio Bible - 1 Chronicles"
+      "id": "ZkL0_EMCW4Q",
+      "title": "Shout Hallelujah to the Risen Lamb | Easter Songs | Resurrection | Catholic Christian Hymn"
     },
     {
-      "id": "2-I0o_UQGgg",
-      "title": "KJV Audio Bible - 2 Chronicles"
+      "id": "ZU2VSs2VqQ4",
+      "title": "The Passion of our Lord Jesus Christ | St. John Sung Gospel | Good Friday | 20 Art Masterpieces"
     },
     {
-      "id": "mccddBIa82o",
-      "title": "KJV Audio Bible - Ezra"
+      "id": "hPLJ_RH_oFI",
+      "title": "Our Father | The Lord's Prayer | Jesus | Craig Courtney | Choir w/Lyrics | Sunday 7pm Choir"
     },
     {
-      "id": "ajfnjCjSL9c",
-      "title": "KJV Audio Bible - Nehemiah"
+      "id": "5AM0N9VS9JI",
+      "title": "Father I Have Sinned | The Prodigal Son Song | Christian Song | Choir with Lyrics | Sunday 7pm Choir"
     },
     {
-      "id": "HNYQhurdZU4",
-      "title": "KJV Audio Bible - Esther"
+      "id": "iXxNSmW0MqM",
+      "title": "Music of the Mass | 14 Hymns & Music For A Catholic Mass | Catholic Church Music Video and Hymns"
     },
     {
-      "id": "pvoeYPwo_q4",
-      "title": "KJV Audio Bible - Job"
+      "id": "jDRYEwNYOOM",
+      "title": "We Are One Body | D.Scallon | World Youth Day | Sunday 7pm Choir | Christian Catholic Church Song"
     },
     {
-      "id": "ki4-9uxpjrE",
-      "title": "KJV Audio Bible - Psalms"
+      "id": "iFPv9zAkTVg",
+      "title": "O Come, All Ye Faithful | Pentatonix | Choir w/Lyrics | J.Narverud | Christmas | Sunday 7pm Choir"
     },
     {
-      "id": "iafIvsbzVbc",
-      "title": "KJV Audio Bible  - Proverbs"
+      "id": "UaWX-k11GWo",
+      "title": "Come Jesus, Prince of Peace | Advent Anthem | Choir w/Lyrics | Hannibal/Nix | Sunday 7pm Choir"
     },
     {
-      "id": "7hs-umxesDM",
-      "title": "KJV Audio Bible - Ecclesiastes"
+      "id": "SJ20I-UhTec",
+      "title": "Come Back To Me (Hosea) | Catholic Song | Choir with Lyrics | Sunday 7pm Choir"
     },
     {
-      "id": "dCqlAq0iWmI",
-      "title": "KJV Audio Bible - Song of Songs"
+      "id": "F4ScBPE9v_I",
+      "title": "O God, You Search Me | B. Farrell | Catholic Church Choir | Sunday 7pm Choir & Friends"
     },
     {
-      "id": "b_7xnzhmj58",
-      "title": "KJV Audio Bible - Isaiah"
+      "id": "MneanjtBRns",
+      "title": "Abba, Father (You Are The Potter) | Carey Landry | Choir with Lyrics | Catholic Christian Hymn Song"
     },
     {
-      "id": "6jdhTMfeiV8",
-      "title": "KJV Audio Bible  - Jeremiah"
+      "id": "dPDT9jLIaZo",
+      "title": "Down to the River to Pray | Spiritual | Choir Version (SATB) with Lyrics | Sunday 7pm Choir"
     },
     {
-      "id": "wd7asUGimvw",
-      "title": "KJV Audio Bible - Lamentations"
+      "id": "K07Z0iHsOFI",
+      "title": "Mary Did You Know | Pentatonix | Choir with Lyrics | Art by Mandie Manzano | Sunday 7pm Choir"
     },
     {
-      "id": "8iPQIW59Kbo",
-      "title": "KJV Audio Bible  - Ezekiel"
+      "id": "R2Un5nwlL5w",
+      "title": "What Child Is This | Choir with Lyrics | Christmas Carol | Dix/Stainer | Sunday 7pm Choir"
     },
     {
-      "id": "8ZRN0UCqEQE",
-      "title": "KJV Audio Bible - Daniel"
+      "id": "u2qcqbPH5Hc",
+      "title": "Who But The Lord | Craig Courtney | SATB Choir | Lyrics by Susan Boersma | Sunday 7pm Choir"
     },
     {
-      "id": "JiALXcbQi-k",
-      "title": "KJV Audio Bible - Hosea"
+      "id": "KNWFm09USQk",
+      "title": "Jesus Christ Is Lord | Ken Canedo | Catholic Church Hymn | Sung by Sunday 7pm Catholic Church Choir"
     },
     {
-      "id": "nRT_wAyPbN4",
-      "title": "KJV Audio Bible - Joel"
+      "id": "g7bqlKwLSBI",
+      "title": "God Has Work For Us To Do | Mark Miller |  St. Francis De Sales Catholic Church - Volunteer Video"
     },
     {
-      "id": "kugVJ-w-E1s",
-      "title": "KJV Audio Bible - Amos"
+      "id": "P4WnsGmIm3w",
+      "title": "Mass of Wonder | A Catholic Mass Setting by Matthew Willcott | Sung by Sunday 7pm Catholic Choir"
     },
     {
-      "id": "I8MU8ic2cUw",
-      "title": "KJV Audio Bible - Obadiah"
+      "id": "0VWIpHq1Ctc",
+      "title": "God Has Chosen Me | SATB with drum | With Lyrics | Sunday 7pm Catholic Church Choir"
     },
     {
-      "id": "bW_ieAZhkoo",
-      "title": "KJV Audio Bible - Jonah"
+      "id": "yffXAFNCPe4",
+      "title": "The Greatest of These is Love |  1 Corinthians 13 | Fatih Hope and Love | Wedding Church Song"
     },
     {
-      "id": "2w8Nb2cIFAw",
-      "title": "KJV Audio Bible - Micah"
+      "id": "F2GRqPoul2o",
+      "title": "Shout To The Lord |  SATB Choir Version | D.Zschech | Sung by Sunday 7pm Choir"
     },
     {
-      "id": "Xy5-DP2p5m0",
-      "title": "KJV Audio Bible - Nahum"
+      "id": "_OoiVc3BpiI",
+      "title": "How Great Thou Art | Christian Hymn | SATB Choir version | Sunday 7pm Choir - Catholic Church Choir"
     },
     {
-      "id": "0LZkqXE3L0w",
-      "title": "KJV Audio Bible - Habakkuk"
+      "id": "z_WrU9oWqh0",
+      "title": "The Supper Of The Lord | SATB Choir | Laurence Rosania | Communion Hymn | Sunday 7pm Catholic Choir"
     },
     {
-      "id": "E-igbuiGImk",
-      "title": "KJV Audio Bible - Zephaniah"
+      "id": "bURklF4aULM",
+      "title": "Dona Nobis Pacem | Canon (SSAA) | Choir with Lyrics and Piano | Sunday 7pm Choir"
     },
     {
-      "id": "naQT34s1Fi4",
-      "title": "KJV Audio Bible - Haggai"
+      "id": "Py8xUO7pOeY",
+      "title": "Servant Song | D. McGargill (with lyrics) | Catholic Church Hymn | What Do You Want Of Me O Lord"
     },
     {
-      "id": "RqecCmJkUfY",
-      "title": "KJV Audio Bible - Zechariah"
+      "id": "bW5iNZkjft8",
+      "title": "Prayer of St. Francis (A Cappella) | Pote/Delgado w/Lyrics | Make Me An Instrument | Catholic Choir"
     },
     {
-      "id": "TVngp4gxGJw",
-      "title": "KJV Audio Bible - Malachi"
+      "id": "_t1yUbdP5Ko",
+      "title": "Prayer of St. Francis (Accompanied) | Instrument Of Thy Peace | Pote/Delgado | Sunday 7pm Choir"
     },
     {
-      "id": "US4Ywv0koc0",
-      "title": "KJV Audio Bible - Matthew"
+      "id": "TTtBFD4FVPI",
+      "title": "For I Know (The Plans I Have For You) | K. Memley | Confirmation | Discernment | Catholic Choir"
     },
     {
-      "id": "y0FV8H20Nz8",
-      "title": "KJV Audio Bible - Mark"
+      "id": "v71_V0INwlE",
+      "title": "Ave Maria | Thomas W. Jefferson | Gospel SATB version | Marian Hymn | Sunday 7pm Catholic Choir"
     },
     {
-      "id": "P-ksLIvhxY0",
-      "title": "KJV Audio Bible - Luke"
+      "id": "KINw95UY8Ag",
+      "title": "Mass of Creation w/ Lyrics | Marty Haugen | Revised Order of Mass 2010 | Sunday 7pm Catholic Choir"
     },
     {
-      "id": "z-dc1AhxLwM",
-      "title": "KJV Audio Bible - John"
+      "id": "QZgYcIvqgHU",
+      "title": "Bread of Life | with Lyrics by Rory Cooney | Catholic Hymn | Communion Hymn | Sunday 7pm Choir"
     },
     {
-      "id": "mv055536zCw",
-      "title": "KJV Audio Bible - Acts"
+      "id": "FP8oOvGed-8",
+      "title": "Behold the Lamb | with Lyrics | Martin Willett | Communion Hymn | Sunday 7pm Catholic Church Choir"
     },
     {
-      "id": "GQgW0wmOv90",
-      "title": "KJV Audio Bible - Romans"
+      "id": "fRGTR_wUje8",
+      "title": "Precious Lord, Take My Hand | with Lyrics | Thomas Dorsey | George Allen | Sunday 7pm Choir"
     },
     {
-      "id": "ZA5OLoV2BNs",
-      "title": "KJV Audio Bible - 1 Corinthians"
+      "id": "Ka-tZdkv0uc",
+      "title": "Ave Maria | Vladimir Vavilov / Caccini | Marian Hymn | Choir with Violin | Sunday 7pm Catholic Choir"
     },
     {
-      "id": "wHfpli6nM3M",
-      "title": "KJV Audio Bible - 2 Corinthians"
+      "id": "JtrZLHQNicQ",
+      "title": "Prayer For Healing | SATB Choir | Molly Ijames & Eileen Berry | Sunday 7pm Choir"
     },
     {
-      "id": "qjOxkpCuJVY",
-      "title": "KJV Audio Bible - Galatians"
+      "id": "Sbv-kYjak08",
+      "title": "Jesus Walked This Lonesome Valley | American Spiritual with Lyrics | Sunday 7pm Catholic Choir"
     },
     {
-      "id": "_lVO-eOw-2Q",
-      "title": "KJV Audio Bible - Ephesians"
+      "id": "Tr5XhaRaL0M",
+      "title": "Christ Be Our Light | B.Farell | SATB Choir with Lyrics & Descant | Sunday 7pm Catholic Church Choir"
     },
     {
-      "id": "o7JriUy2B9A",
-      "title": "KJV Audio Bible - Philippians"
+      "id": "cGNYDcqdl8g",
+      "title": "Here I Am, Lord | Dan Schutte | SATB Choir with Lyrics | I The Lord Of Sea And Sky | Catholic Hymn"
     },
     {
-      "id": "6DfqcwCr_a4",
-      "title": "KJV Audio Bible - Colossians"
+      "id": "37k20ZZ9h-A",
+      "title": "Wait for the Lord | Taize | SATB Choir | Jacques Berthier | Sunday 7pm Catholic Church Choir"
     },
     {
-      "id": "BSk0ro9vOPM",
-      "title": "KJV Audio Bible - 1 Thessalonians"
+      "id": "eBnv2RxvDiE",
+      "title": "Freedom Is Coming | Anders Nyberg | SATB Choir with Lyrics | Sunday 7pm Catholic Church Choir"
     },
     {
-      "id": "a5_5I4VsizQ",
-      "title": "KJV Audio Bible - 2 Thessalonians"
+      "id": "IvD0XJzOWQ4",
+      "title": "I Am The Bread of Life | Suzanne Toolan with Lyrics | Catholic Hymn Song | Sunday 7pm Choir"
     },
     {
-      "id": "fFIs5lsAhQ8",
-      "title": "KJV Audio Bible - 1 Timothy"
+      "id": "fBxMn0r9_cU",
+      "title": "Hail Holy Queen | Rosary Prayer | SATB Choir | Marian Hymn | Danielle Rose & Matt Maher with Lyrics"
     },
     {
-      "id": "QPsB2BPqGHs",
-      "title": "KJV Audio Bible - 2 Timothy"
+      "id": "k14tSs7dm00",
+      "title": "An Old Irish Blessing | St. Patrick's Day | Catholic Hymn w/ lyrics | Kevin Keil | Sunday 7pm Choir"
     },
     {
-      "id": "Cdwj2aP7Z64",
-      "title": "KJV Audio Bible - Titus"
+      "id": "Tm70F_Q8EFE",
+      "title": "Be Still | Music by Mary McDonald with Lyrics | SATB Choir Version | Be Still and Know"
     },
     {
-      "id": "m1lwkPs92C0",
-      "title": "KJV Audio Bible - Philemon"
+      "id": "FM-CTZKg9U8",
+      "title": "All That Is Hidden | Music by Bernadette Farrell with Lyrics | Sunday 7pm Catholic Church Choir"
     },
     {
-      "id": "MAUVBo2v_BU",
-      "title": "KJV Audio Bible - Hebrews"
+      "id": "huERPUnO-bo",
+      "title": "Come To The Water | John Foley | Catholic Hymn | Choir with Lyrics | Isaiah 55 | Sunday 7pm Choir"
     },
     {
-      "id": "PwkbYuABFw8",
-      "title": "KJV Audio Bible - James"
+      "id": "agHBf4VScak",
+      "title": "Refuge | Music by Keith Christopher with Lyrics | SATB Choir with Lyrics | Sunday 7pm Choir"
     },
     {
-      "id": "x1pmPTCgi3Y",
-      "title": "KJV Audio Bible - 1 Peter"
+      "id": "o8ELDtk7G20",
+      "title": "Siyahamba | We Are Marching | SATB Choir with Drum | Music by Andries Van Tonder with Lyrics"
     },
     {
-      "id": "kHEkvsd_xQU",
-      "title": "KJV Audio Bible - 2 Peter"
+      "id": "nf7LY8QdyDQ",
+      "title": "Our Song Shall Rise To Thee (Holy Holy Holy) | Holy Trinity | Heber/Martin | Sunday 7pm Choir"
     },
     {
-      "id": "FG7yHXDjahc",
-      "title": "KJV Audio Bible - 1 John"
+      "id": "pf_9zXhMMww",
+      "title": "If Ye Love Me | Music by Thomas Tallis | SATB Choir with Lyrics - Sunday 7pm Choir"
     },
     {
-      "id": "giac07JBI0Q",
-      "title": "KJV Audio Bible - 2 John"
+      "id": "nWi-Plu0WbA",
+      "title": "Prayer of St. Francis | Make Me A Channel Of Your Peace | Lyrics | R. DeBruyn | Catholic Song"
     },
     {
-      "id": "ZU7IK_DA188",
-      "title": "KJV Audio Bible - 3 John"
+      "id": "F0jE1l6Bbak",
+      "title": "Follow Me (To The Sea) | Music by Ray Repp with Lyrics | SATB Choir Version | Sunday 7pm Choir"
     },
     {
-      "id": "f6LMHcFhby8",
-      "title": "KJV Audio Bible - Jude"
+      "id": "1OtNGdxFGrA",
+      "title": "The Tomb Stands Open Wide | Easter Anthem | SATB Choir | Music by Lloyd Larson with Lyrics"
     },
     {
-      "id": "d_wfvgROB_Q",
-      "title": "KJV Audio Bible  - Revelation"
+      "id": "Tt82ydxZkmU",
+      "title": "Anima Christi (Soul of Christ) | SATB Chori | Arr. by Arnold Zamora with Lyrics | Soul Of Christ"
     },
     {
-      "id": "21veav7A2QA",
-      "title": "Full Old Testament KJV Audio Bible (Over 9+ hours)"
+      "id": "8oRRHghUDpE",
+      "title": "As I Have Done For You | Music by Dan Schutte with Lyrics | Holy Thursday | SFDS Combined Choir"
     },
     {
-      "id": "mVkcLUnTSmc",
-      "title": "Full Gospels KJV Audio Bible  (Over 8+ hours)"
+      "id": "FZrL_jVvkdo",
+      "title": "Come, See My Savior | Lent Songs | Good Friday Song | Choir | Susan & Lee Dengler | Sunday 7pm Choir"
     },
     {
-      "id": "tjmeJIEon18",
-      "title": "KJV Audio Psalms 23, 27 and 91 (looped 8 hrs)"
+      "id": "J4S39DFeKcs",
+      "title": "\"Father I Have Sinned (The Prodigal Son Song)\" by Eugene O'Reilly with Lyrics - Sunday 7pm Choir"
     }
   ]
 }
